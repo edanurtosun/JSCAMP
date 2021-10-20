@@ -17,7 +17,8 @@ console.log(euroDun)
 
 let konutKredileri = ["Konut Kredisi",
 "Emlak Konut Kredisi",
-"Kamu Konut Kredisi"]
+"Kamu Konut Kredisi",
+"Kamu Konut Kredisi2"]
 
 console.log("<ul>")
 for (let i = 0; i < konutKredileri.length; i++) {
